@@ -1,0 +1,188 @@
+{
+  "scanned": true,
+  "reminders": {
+    "100-Notes/Finances/Hiscox.md": [
+      {
+        "title": "[Hiscox](app://obsidian.md/100-Notes/Finances/Hiscox) $63.00 [repeat:: every month] [due:: 2023-11-22]",
+        "time": "2023-11-21",
+        "rowNumber": 8
+      },
+      {
+        "title": "[Hiscox](app://obsidian.md/100-Notes/Finances/Hiscox) $58.00 [repeat:: every month] [due:: 2023-11-22]]",
+        "time": "2023-11-21",
+        "rowNumber": 9
+      }
+    ],
+    "100-Notes/Finances/Synchrony.md": [
+      {
+        "title": "[Synchrony Bank](app://obsidian.md/100-Notes/Finances/Synchrony) $25.00 [repeat::  every month] [due::  2023-11-12]",
+        "time": "2023-11-10 09:00",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/Chase.md": [
+      {
+        "title": "[Chase Ink](app://obsidian.md/100-Notes/Finances/Chase) $300.00 [repeat::  every month] [due:: 2023-11-20]",
+        "time": "2023-11-15 09:00",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/Sears-Rewards-Mastercard.md": [
+      {
+        "title": "[Sears - Rewards MC](app://obsidian.md/100-Notes/Finances/Sears-Rewards-Mastercard) $100 [repeat::  every month] [due::  2023-11-21]",
+        "time": "2023-11-15 09:00",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/Citi.md": [
+      {
+        "title": "[Citi - Costco](app://obsidian.md/100-Notes/Finances/Citi) $350.00 [repeat::  every month] [due::  2023-11-21]",
+        "time": "2023-11-15 09:00",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/ElevationsCreditUnion.md": [
+      {
+        "title": "[Elevations Platinum](/100-Notes/Finances/ElevationsCreditUnion) $450.00 [repeat::  every month] [due:: 2023-11-17]",
+        "time": "2023-11-15 09:00",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/CitiBank.md": [
+      {
+        "title": "[Citibank](app://obsidian.md/100-Notes/Finances/CitiBank) $25.00 [repeat::  every month] [due:: 2023-11-17]",
+        "time": "2023-11-16",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/DiscoverCard.md": [
+      {
+        "title": "[Discover Card](app://obsidian.md/100-Notes/Finances/DiscoverCard) $200.00 [repeat::  every month] [due:: 2023-11-21]",
+        "time": "2023-11-16",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/CapitalOne.md": [
+      {
+        "title": "[Capital One](app://obsidian.md/100-Notes/Finances/CapitalOne) $200.00 [repeat::  every month] [due::  2023-11-10]",
+        "time": "2023-11-05",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/AmericanExpress.md": [
+      {
+        "title": "[American Express](app://obsidian.md/100-Notes/Finances/AmericanExpress) $100.00 [repeat::  every month] [due::  2023-11-16]",
+        "time": "2023-11-16",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/ATandT.md": [
+      {
+        "title": "[AT&T](app://obsidian.md/100-Notes/Finances/ATandT) $400.00 [repeat::  every month] [due::  2023-11-22]",
+        "time": "2023-11-26",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/Telsa.md": [
+      {
+        "title": "[Tesla Energy](app://obsidian.md/100-Notes/Finances/Telsa) $100.00 [repeat::  every month] [due::  2023-11-16]",
+        "time": "2023-11-10",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/CityofNorthglenn.md": [
+      {
+        "title": "[City of Northglenn](app://obsidian.md/100-Notes/Finances/CityofNorthglenn) Utilities $90.00 [repeat::  every month] [due:: 2023-11-30]",
+        "time": "2023-11-26",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/XcelEnergy.md": [
+      {
+        "title": "[Xcel Energy](app://obsidian.md/100-Notes/Finances/XcelEnergy) $385.00 [repeat:: every month] [due::  2023-11-28]",
+        "time": "2023-11-26",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/Comcast.md": [
+      {
+        "title": "[Comcast Xfinity](app://obsidian.md/100-Notes/Finances/Comcast) $155.00 [repeat::  every month] [due::  2023-11-07]",
+        "time": "2023-11-20",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/EdFinancial.md": [
+      {
+        "title": "[Ed Financial](app://obsidian.md/100-Notes/Finances/EdFinancial) $85.00 [repeat::  every month] [due:: 2023-11-07]",
+        "time": "2023-11-20",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/PremierMembers.md": [
+      {
+        "title": "[Premier Members](app://obsidian.md/100-Notes/Finances/PremierMembers) Mortgage $2200.00 [repeat:: every month]  [due:: 2023-11-01]",
+        "time": "2023-11-01",
+        "rowNumber": 8
+      },
+      {
+        "title": "[Premier Members](app://obsidian.md/100-Notes/Finances/PremierMembers) Heloc $698.00 [repeat::  every month] [due:: 2023-11-20] [remind:: 2023-11-19]",
+        "time": "2023-11-19",
+        "rowNumber": 9
+      }
+    ],
+    "100-Notes/Finances/SmallBusinessAssociation.md": [
+      {
+        "title": "[SBA](app://obsidian.md/100-Notes/Finances/SmallBusinessAssociation) Loan $150.00 🔁 every month 📅 2023-11-21",
+        "time": "2023-11-20",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/Finances/ColoradoState.md": [
+      {
+        "title": "[Colorado Revenue](app://obsidian.md/100-Notes/Finances/ColoradoState) $250.00 [repeat:: every month] [due:: 2023-11-21]",
+        "time": "2023-11-20",
+        "rowNumber": 9
+      }
+    ],
+    "100-Notes/Finances/IRS.md": [
+      {
+        "title": "[IRS](app://obsidian.md/100-Notes/Finances/IRS) $541.00 🔁 every month 📅 2023-11-21",
+        "time": "2023-09-20",
+        "rowNumber": 8
+      }
+    ],
+    "100-Notes/CPAP-Supplies.md": [
+      {
+        "title": "Call 303-665-7009 Roth Medical,  Update Insurance card and payment in their system.  [priority:: high]  [due:: 2023-11-06]",
+        "time": "2023-11-06 08:00",
+        "rowNumber": 12
+      }
+    ],
+    "100-Notes/Finances/SavorCard.md": [
+      {
+        "title": "[Savor Card](app://obsidian.md/100-Notes/SavorCard) $100.00 [repeat:: every month] [due:: 2023-11-02]",
+        "time": "2023-11-15 09:00",
+        "rowNumber": 8
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "remind",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 60
+  }
+}

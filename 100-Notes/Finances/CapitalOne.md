@@ -1,0 +1,9 @@
+---
+subject: 
+peoples: 
+date: November 3, 2023 4:12 PM
+cover: "https://i.imgur.com/ce8zJha.jpg"
+created: 2023-11-03 16:11
+type: note
+---
+- [ ] [Capital One](app://obsidian.md/100-Notes/Finances/CapitalOne) $200.00 (@[[2023-11-07]]) [repeat::  every month] [due::  2023-11-10]

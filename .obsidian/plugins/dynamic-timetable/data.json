@@ -1,0 +1,25 @@
+{
+  "filePath": "CPI/Journal/2023-08-01.md",
+  "showEstimate": true,
+  "showStartTime": true,
+  "showEstimateInTaskName": true,
+  "showStartTimeInTaskName": true,
+  "showBufferTime": true,
+  "showProgressBar": true,
+  "intervalTime": "30",
+  "taskEstimateDelimiter": ";",
+  "startTimeDelimiter": "@",
+  "dateDelimiter": "",
+  "enableOverdueNotice": true,
+  "headerNames": [
+    "Tasks",
+    "Estimate",
+    "Start",
+    "End"
+  ],
+  "showCompletedTasks": true,
+  "applyBackgroundColorByCategory": true,
+  "showCategoryNamesInTask": true,
+  "categoryColors": [],
+  "categoryTransparency": 0.3
+}

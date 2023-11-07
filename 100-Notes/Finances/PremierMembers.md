@@ -1,0 +1,11 @@
+---
+subject: 
+peoples: 
+date: November 3, 2023 4:10 PM
+cover: "https://i.imgur.com/ce8zJha.jpg"
+created: 2023-11-03 16:11
+type: note
+---
+- [ ] [Premier Members](app://obsidian.md/100-Notes/Finances/PremierMembers) Mortgage $2200.00 (@[[2023-11-13]])  [repeat:: every month]  [due:: 2023-11-01] 
+- [ ] [Premier Members](app://obsidian.md/100-Notes/Finances/PremierMembers) Heloc $698.00 (@2023-11-19) [repeat::  every month] [due:: 2023-11-20] [remind:: 2023-11-19]
+

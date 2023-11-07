@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "z_templates/_note",
+  "replacementText": "embed"
+}

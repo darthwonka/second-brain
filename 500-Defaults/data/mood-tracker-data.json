@@ -1,0 +1,25 @@
+[
+  {
+    "id": "a8c99510-cb4e-4582-85af-40c33ae066fe",
+    "dateTime": "2023-09-13T18:50:10-06:00",
+    "moodRating": 3,
+    "emotions": [
+      "ok",
+      "depressed",
+      "anxious"
+    ],
+    "note": "To be expected today, but I feel like this is a pattern. \n"
+  },
+  {
+    "id": "c9492052-b459-4dc3-82a4-9f8a23338f29",
+    "dateTime": "2023-10-13T09:28:36-06:00",
+    "moodRating": 2,
+    "emotions": [
+      "depressed",
+      "inadequate",
+      "worried",
+      "anxious"
+    ],
+    "note": ""
+  }
+]

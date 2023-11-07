@@ -1,0 +1,25 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "attachment",
+  "livePreview": true,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "trashOption": "local",
+  "useTab": true,
+  "smartIndentList": true,
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "z_templates/"
+  ],
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "tabSize": 4,
+  "newFileFolderPath": "100-Notes"
+}

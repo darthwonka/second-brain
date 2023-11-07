@@ -1,0 +1,31 @@
+{
+  "scanned": true,
+  "reminders": {
+    "500-Defaults/tables/(Every U) Take out the Recycling.md": [
+      {
+        "title": "Take out the Recycling",
+        "time": "2023-10-17",
+        "rowNumber": 10
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": true,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 60
+  }
+}

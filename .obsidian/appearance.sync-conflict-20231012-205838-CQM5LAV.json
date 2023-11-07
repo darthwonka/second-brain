@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Prism",
+  "baseFontSize": 12,
+  "interfaceFontFamily": "Calibri",
+  "textFontFamily": "Calibri",
+  "monospaceFontFamily": "Consolas",
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}

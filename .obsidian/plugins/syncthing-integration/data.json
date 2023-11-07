@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "https",
+      "ip_address": "Wonkalinux.wonkatania.org",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "api_key": "KRydaPJ2oaHvojiXznNGVRiXimXjRndK",
+  "gui_username": "mrb",
+  "gui_password": "BigB00ty%2020"
+}

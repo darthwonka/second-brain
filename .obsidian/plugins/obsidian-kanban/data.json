@@ -1,0 +1,9 @@
+{
+  "show-checkboxes": true,
+  "hide-card-count": false,
+  "hide-tags-in-title": true,
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "new-note-folder": "100-Notes",
+  "new-note-template": "z_templates/_note.md"
+}

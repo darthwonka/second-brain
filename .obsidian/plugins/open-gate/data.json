@@ -1,0 +1,16 @@
+{
+  "uuid": "y1amgi9n6fyirq42eiw4h",
+  "gates": {
+    "aHR0cHM6Ly9kYXJ0aHdvbmthLmltZ3VyLmNvbS9hbGw=": {
+      "id": "aHR0cHM6Ly9kYXJ0aHdvbmthLmltZ3VyLmNvbS9hbGw=",
+      "title": "My Imgur",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9kYXJ0aHdvbmthLmltZ3VyLmNvbS9hbGw%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://darthwonka.imgur.com/all",
+      "zoomFactor": 1,
+      "userAgent": "     Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+    }
+  }
+}

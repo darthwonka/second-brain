@@ -1,0 +1,8 @@
+{
+  "show-checkboxes": true,
+  "hide-card-count": false,
+  "hide-tags-in-title": true,
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "new-note-folder": "_Personal"
+}

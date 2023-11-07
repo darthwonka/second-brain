@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "obsidian-tasks-plugin:edit-task",
+    "obsidian-timestamper:obsidian-fast-datestamp",
+    "obsidian-table-generator:create-table-genertator"
+  ]
+}

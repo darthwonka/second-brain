@@ -1,0 +1,143 @@
+# Shell Commands
+
+Created: 2018-01-19 14:39:23 -0700
+
+Modified: 2018-01-19 14:40:15 -0700
+
+---
+
+- shell:AccountPictures
+- shell:Roaming Tiles
+- shell:Common Programs
+- shell:PublicAccountPictures
+- shell:GameTasks
+- shell:UserProfiles
+- shell:MyComputerFolder
+- shell:SearchHistoryFolder
+- <span class="mark">shell:Local Pictures</span>
+- shell:SyncSetupFolder
+- shell:DpapiKeys
+- <span class="mark">shell:Retail Demo</span>
+- shell:Favorites
+- shell:My Video
+- shell:SearchHomeFolder
+- shell:RecordedTVLibrary
+- shell:System
+- shell:Libraries
+- <span class="mark">shell:ThisDeviceFolder</span>
+- shell:AppsFolder
+- shell:MusicLibrary
+- shell:CommonVideo
+- <span class="mark">shell:OneDriveDocuments</span>
+- shell:SyncResultsFolder
+- shell:Cookies
+- <span class="mark">shell:CameraRollLibrary</span>
+- shell:Original Images
+- <span class="mark">shell:Recorded Calls</span>
+- <span class="mark">shell:3D Objects</span>
+- shell:CommonMusic
+- <span class="mark">shell:OneDrivePictures</span>
+- shell:My Pictures
+- shell:Cache
+- <span class="mark">shell:Local Videos</span>
+- shell:Downloads
+- <span class="mark">shell:SavedPictures</span>
+- shell:CommonDownloads
+- shell:AppData
+- shell:SyncCenterFolder
+- shell:PublicLibraries
+- shell:VideosLibrary
+- shell:My Music
+- shell:ConflictFolder
+- shell:SavedGames
+- shell:InternetFolder
+- shell:HomeGroupFolder
+- shell:Quick Launch
+- shell:SystemCertificates
+- shell:Contacts
+- shell:UserProgramFiles
+- shell:Device Metadata Store
+- shell:Profile
+- shell:Start Menu
+- shell:Common AppData
+- <span class="mark">shell:ProgramFilesCommonX64</span>
+- shell:PhotoAlbums
+- <span class="mark">shell:ProgramFilesX64</span>
+- shell:ConnectionsFolder
+- shell:Administrative Tools
+- shell:ThisPCDesktopFolder
+- <span class="mark">shell:OneDriveCameraRoll</span>
+- shell:PrintersFolder
+- shell:DocumentsLibrary
+- shell:ProgramFilesX86
+- shell:Searches
+- <span class="mark">shell:Local Downloads</span>
+- shell:SearchTemplatesFolder
+- shell:Common Startup
+- shell:ControlPanelFolder
+- shell:SendTo
+- shell:ResourceDir
+- shell:ProgramFiles
+- shell:CredentialManager
+- shell:PrintHood
+- shell:MAPIFolder
+- shell:HomeGroupCurrentUserFolder
+- shell:User Pinned
+- shell:CD Burning
+- <span class="mark">shell:Local Music</span>
+- shell:UsersLibrariesFolder
+- shell:AppUpdatesFolder
+- shell:Application Shortcuts
+- shell:Common Start Menu
+- <span class="mark">shell:Common Start Menu Places</span>
+- shell:LocalAppDataLow
+- shell:OneDrive
+- shell:Templates
+- shell:Programs
+- shell:PicturesLibrary
+- shell:Roamed Tile Images
+- shell:Camera Roll
+- shell:Recent
+- shell:Desktop
+- <span class="mark">shell:Virtual Machines</span>
+- shell:CommonPictures
+- shell:RecycleBinFolder
+- shell:Screenshots
+- shell:CryptoKeys
+- shell:Common Templates
+- shell:Startup
+- shell:ImplicitAppShortcuts
+- shell:UserProgramFilesCommon
+- shell:Links
+- shell:OEM Links
+- <span class="mark">shell:OneDriveMusic</span>
+- shell:Common Desktop
+- shell:NetHood
+- shell:Ringtones
+- shell:Games
+- shell:Common Administrative Tools
+- shell:NetworkPlacesFolder
+- shell:SystemX86
+- shell:History
+- <span class="mark">shell:Development Files</span>
+- shell:AddNewProgramsFolder
+- shell:Playlists
+- shell:ProgramFilesCommonX86
+- shell:PublicGameTasks
+- shell:ChangeRemoveProgramsFolder
+- shell:Public
+- <span class="mark">shell:SavedPicturesLibrary</span>
+- shell:CommonRingtones
+- shell:Common Documents
+- <span class="mark">shell:Captures</span>
+- shell:CSCFolder
+- shell:Local AppData
+- shell:StartMenuAllPrograms
+- shell:Windows
+- shell:UsersFilesFolder
+- <span class="mark">shell:Local Documents</span>
+- shell:ProgramFilesCommon
+- shell:Fonts
+- shell:Personal
+
+*From < <http://www.winhelponline.com/blog/shell-commands-to-access-the-special-folders/>>*

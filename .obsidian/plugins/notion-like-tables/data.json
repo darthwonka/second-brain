@@ -1,0 +1,18 @@
+{
+  "shouldDebug": false,
+  "createAtObsidianAttachmentFolder": true,
+  "customFolderForNewFiles": "",
+  "removeMarkdownOnExport": true,
+  "defaultEmbedWidth": "100%",
+  "defaultEmbedHeight": "340px",
+  "hasMigratedTo800": true,
+  "showWelcomeModal": false,
+  "showSupportModal": true,
+  "showWhatsNewModal": true,
+  "defaultFrozenColumnCount": 1,
+  "pluginVersion": "8.7.2",
+  "showDonationModal": true,
+  "exportRenderMarkdown": true,
+  "customFolderForNewTables": "_Defaults/tables",
+  "nameWithActiveFileNameAndTimestamp": true
+}

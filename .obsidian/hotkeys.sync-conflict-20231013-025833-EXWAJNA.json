@@ -1,0 +1,57 @@
+{
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "make-md:mk-blink": [],
+  "workspace:next-tab": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "nldates-obsidian:nlp-time": [],
+  "nldates-obsidian:nlp-now": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:insert-link": [],
+  "workspace:previous-tab": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:close": [],
+  "workspace:close-window": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "nldates-obsidian:nlp-dates": [],
+  "templater-obsidian:z_templates/D.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "templater-obsidian:z_templates/T.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "app:open-help": []
+}

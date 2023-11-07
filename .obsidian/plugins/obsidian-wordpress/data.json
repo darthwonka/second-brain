@@ -1,0 +1,49 @@
+{
+  "lang": "auto",
+  "profiles": [
+    {
+      "name": "wonkapublisher",
+      "apiType": "miniOrange",
+      "endpoint": "https://www.wonkatania.org",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        1
+      ],
+      "username": "wonkapublisher",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"9SKJ-BYArHrkSdM6f_Twi4S6_9QmhxCwgmjxyEckNSw\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "YGGt3FP5gD1qkYaj",
+        "encrypted": "ccifd4jTP+UUMFfOrAUPGeJmsyvf4o8X0IT/qg=="
+      }
+    },
+    {
+      "name": "Nickicobel",
+      "apiType": "miniOrange",
+      "endpoint": "https://www.nickicobel.com",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": false,
+      "lastSelectedCategories": [
+        1
+      ],
+      "username": "mrb",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"2tbAx2eMdIywH8YnFZu4pgQYwc_F7F3POhTuu-xUee8\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "2RIIlddRjR4zPg3I",
+        "encrypted": "6z7l/1ATNvfKFBEO9EaD04IWu3Pq8lXXeqH//hsIGI9kp2CHiI6eJw=="
+      }
+    }
+  ],
+  "showRibbonIcon": true,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "open",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": true,
+  "mathJaxOutputType": "svg",
+  "enableHtml": false,
+  "version": "2"
+}

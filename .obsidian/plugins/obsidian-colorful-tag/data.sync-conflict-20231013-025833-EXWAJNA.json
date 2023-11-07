@@ -1,0 +1,193 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {},
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      }
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {
+      "nest-tag": "True",
+      "radius": "38px"
+    },
+    "opened": false,
+    "enableList_": {
+      "radius": true
+    }
+  },
+  "UseTagDetail": true,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {
+    "CPI/1-Journal/2023-06-06.md": [],
+    "CPI/Procedures/Patch Weekend.md": [],
+    "CPI/TASKS/Duo-Unix---Two-Factor-Authentication-for-SSH-with-PAM-Support-(pam_duo).md": [],
+    "CPI/1-Notes/Powershell Magick.md": []
+  },
+  "MetaFileTagDetails": {
+    "_templates_/{{title}}.md": [],
+    "z_templates/_journal.md": [],
+    "CPI/TASKS/Linux-Planning.md": [
+      "#Linux-2-0-21"
+    ],
+    "CPI/TASKS/Develop-Linux-Deployable-image.md": [
+      "0-0-0"
+    ],
+    "CPI/TASKS/Software-Usage-list-on-Linux.md": [
+      "0-0-0"
+    ],
+    "CPI/TASKS/20230510-Extend--var-on-Gondor.md": [
+      "8-0-104",
+      "8-8-112"
+    ],
+    "CPI/Quick-Notes/Linux-AD-auth.md": [],
+    "CPI/Quick-Notes/roadmap-for-linux.md": [
+      "#Linux-1-0-20",
+      "#haproxy-15-0-170",
+      "#Lrabbitmq-18-0-184"
+    ],
+    "_Journal/23-06-02.md": [
+      "#training-16-32-427"
+    ],
+    "CPI/TASKS/Duo-Unix---Two-Factor-Authentication-for-SSH-with-PAM-Support-(pam_duo).md": [
+      "#auth-420-0-21883"
+    ],
+    "1 - Journal/2023-06-05.md": [
+      "#geek-22-0-537"
+    ],
+    "CPI/1-Journal/2023-06-06.md": [
+      "#correctme-15-64-445"
+    ],
+    "1 - Journal/2023-06-07.md": [
+      "#correctme-29-3-416"
+    ],
+    "CPI/CPI.md": [
+      "#CPI-0-0-0"
+    ],
+    "CPI/Procedures/Patch Weekend.md": [
+      "#IT-Operations-1-0-16"
+    ],
+    "ReadLater/Definitive Obsidian Markdown Cheatsheet Complete Syntax Reference - Face Dragons.md": [
+      "#tagshavenospaces-24-13-1823",
+      "#Bible-347-104-10021"
+    ],
+    "1 - Journal/2023-06-08.md": [
+      "#correctme-37-3-918"
+    ],
+    "CPI/1-Journal/2023-06-08.md": [],
+    "1 - Journal/2023-06-09.md": [
+      "#correctme-37-3-715"
+    ],
+    "CPI/SYSTEM-SETUPS/Linux-Repository-Servers.md": [
+      "#Ubuntu-14-23-394"
+    ],
+    "CPI/Procedures/Untitled.md": [],
+    "CPI/Procedures/ServerNaming.md": [
+      "#cpi-2-0-29",
+      "#IT-Operations-2-5-34"
+    ],
+    "1 - Journal/2023-06-12.md": [
+      "#correctme-34-3-536"
+    ],
+    "1 - Journal/2023-06-14.md": [
+      "#correctme-57-3-2496"
+    ],
+    "_Defaults/Loving Day.md": [
+      "#LovingDay-12-35-702"
+    ],
+    "1 - Journal/2023-06-19.md": [
+      "#mrandmrsbelanger-33-107-741",
+      "#correctme-37-3-855"
+    ],
+    "1 - Journal/2023-06-20.md": [
+      "#correctme-32-3-765"
+    ],
+    "CPI/1-Tasks/Develop-Linux-Deployable-image.md": [
+      "#Develop-0-0-0"
+    ],
+    "1 - Journal/2023-06-22.md": [],
+    "CPI/1-Tasks/Linux-Planning.md": [
+      "#Linux-0-0-0"
+    ],
+    "CPI/Hosts/linux-repo.corp.cpicardgroup.com.md": [],
+    "CPI/1-Notes/Linux Roadmap.md": [],
+    "CPI/Hosts/Maxwell.eftdomain.net.md": [],
+    "CPI/1-Notes/Powershell Magick.md": [
+      "#Set-256-0-8506",
+      "#Remove-263-0-8630",
+      "#Create-271-0-8762",
+      "#Write-280-0-8891",
+      "#iterate-301-0-9338",
+      "#Add-330-0-9884"
+    ],
+    "1-Tasks/Linux Overview to Scott on Friday.md": [
+      "#linuxOverview-1-0-11"
+    ],
+    "CPI/1-Journal/2023-07-12.md": [
+      "#1o1-9-21-378"
+    ],
+    "StudioCompletiva/Office-Operations-Notebook/Howto/VPN/OpenVPN.md": [],
+    "SalusITGroupLLC/Pages/Remove-Personal-Information-off-computer.md": [],
+    "_Personal/Notes/note-2023-07-29-06-25.md": [
+      "#birthday-7-0-91",
+      "#nicole-7-10-101"
+    ],
+    "_Personal/Notes/note-nicole50.md": [
+      "#birthday-7-0-91",
+      "#nicole-7-10-101"
+    ],
+    "CPI/TASKS/Vulnerability Mitigation.md": [
+      "#tenable-37-0-662",
+      "#linux-37-9-671"
+    ],
+    "Notes/Sears Home Warranty.md": [],
+    "100-Personal/Lists/Mental Health.md": [],
+    "100-Personal/Lists/Untitled.md": [
+      "#quotes-4-0-31",
+      "#quotes-10-0-121"
+    ],
+    "100-Personal/Lists/Important-Dates.md": [
+      "#Anniversary-3-6-29",
+      "#Anniversary-4-6-111",
+      "#Birthday-10-6-248",
+      "#Birthday-11-6-331",
+      "#Birthday-12-6-414",
+      "#Birthday-13-6-500",
+      "#Birthday-14-6-588",
+      "#Birthday-15-6-675",
+      "#Birthday-16-6-762",
+      "#Birthday-18-6-858"
+    ],
+    "100-Notes/note-nicole50.md": [
+      "#birthday-7-0-91",
+      "#nicole-7-10-101"
+    ],
+    "100-Notes/Sears Home Warranty.md": [
+      "#Holyshitballs-44-0-1235"
+    ],
+    "Untitled.md": [
+      "39-0-1182"
+    ],
+    "Sears Home Services.md": [
+      "#Holyshitballs-39-0-1182"
+    ],
+    "100-Journal/2023-06-08.md": [
+      "#correctme-37-3-917"
+    ],
+    "100-Journal/2023-06-07.md": [
+      "#correctme-29-3-415"
+    ],
+    "100-Journal/2023-06-12.md": [
+      "#correctme-34-3-535"
+    ],
+    "100-Journal/2023-06-05.md": [
+      "#geek-22-0-549"
+    ]
+  }
+}

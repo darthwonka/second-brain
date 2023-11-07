@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "e0608912348a7518",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bdee4aa14a7c79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847ce3ab458adc79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-Personal/Journals/APRIL/13-APR.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab249e8e789f1a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "657699feb137da8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29e74019ab3edba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "77ea1b72e9c0eab5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rotech",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "230f0d1a26dfaa9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8764bd6345c6592c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "deaf52635d552ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cd9d8b2cda3a68",
+        "type": "tabs",
+        "dimension": 72.89972899728997,
+        "children": [
+          {
+            "id": "3de418a150f59fa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2959e8656e961759",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3947f0d842fae35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100-Personal/Journals/APRIL/13-APR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67a37bea8c5c1b32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100-Personal/Journals/APRIL/13-APR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "584c7d358ce55d2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "88d0e5f6159a16af",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c1c5573bb81a69d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100-Personal/Journals/APRIL/13-APR.md"
+              }
+            }
+          },
+          {
+            "id": "fca6041759569e33",
+            "type": "leaf",
+            "state": {
+              "type": "Timetable",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "cf9984e7ee4a0bd7",
+        "type": "tabs",
+        "dimension": 27.100271002710024,
+        "children": [
+          {
+            "id": "78b7b5b22354d026",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "open-gate:My Imgur": false,
+      "open-gate:Monday Dashboard": false,
+      "open-gate:Outlook": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "quote-share:Share": false,
+      "mood-tracker:Open Mood Tracker": false,
+      "mood-tracker:Open Mood Tracking History": false,
+      "copilot:Copilot Chat": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "notion-like-tables:Create loom": false,
+      "time-ruler:Open Time Ruler": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-wordpress:WordPress Publish": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "847ce3ab458adc79",
+  "lastOpenFiles": [
+    "100-Personal/Growth/+-----Boundary(-)-and-Esteem(-).md",
+    "100-Personal/Growth/Adult-Executive-Function-Workbook-Unit-2.md",
+    "100-Personal/Growth/Biography.md",
+    "100-Personal/Growth/Medical/EMDR-Therapists.md",
+    "100-Personal/Growth/Medical/Mental Health.md",
+    "100-Personal/Growth/Medical/TMS.md",
+    "100-Notes/note-nicole50.md",
+    "100-Notes/Roof Replacement 2023.md",
+    "attachment/100-Personal/Growth/Medical/TMS",
+    "attachment/100-Personal/Growth/Medical/TMS/IMG-20231011222900722.png",
+    "attachment/100-Personal/Growth/Medical/Untitled",
+    "attachment/100-Personal/Growth/Medical/TMS/IMG-20231011221717541.png",
+    "100-Personal/DBT-Worksheet/BRAVING.md",
+    "100-Personal/DBT-Worksheet/STOP-Skill-form-Template-#1.md",
+    "100-Personal/DBT-Worksheet/STOP-Skill-form-Template-#2.md",
+    "100-Notes/Affirmations.md",
+    "100-Notes/note-2023-07-30-02-21.md",
+    "100-Notes/syncthing.md",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists",
+    "attachment/100-Personal/Growth/Medical",
+    "100-Personal/Lists/Expenses.md",
+    "100-Notes/ChallengingBeliefsWorksheet.md",
+    "100-Personal/Growth/DBT-Workshop-Session-1.md",
+    "100-Personal/Lists/Trust-Star-Worksheet 1.md",
+    "100-Personal/Lists/Trust-Star-Worksheet.md",
+    "100-Personal/Lists/Stuck-Points.md",
+    "100-Personal/Lists/Medication-List.md",
+    "100-Personal/Lists/Important-Dates.md",
+    "100-Personal/Lists/Future-Board.md",
+    "100-Personal/Lists/Dating-Ideas.md",
+    "100-Personal/Lists/Groceries.md",
+    "100-Personal/Personal.md",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009235211073.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009234708901.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009234403031.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009183928808.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009183616782.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009183405479.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009183147113.png",
+    "attachment/100-Personal/Growth/Medical/EMDR-Therapists/IMG-20231009182836660.png",
+    "attachment/100-Personal/Growth/EMDR-Therapists",
+    "attachment/100-Personal/Growth",
+    "attachment/100-Personal",
+    "100-Journal/context.mdb",
+    "100-Notes/~syncthing~Sears Home Warranty.md.tmp",
+    "150-Entertainment/Music",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
